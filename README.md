@@ -2,7 +2,10 @@
 
 #### This program for Processing.py is based on an implementation of the A* algorithm by David Barr, as in [this video](https://youtu.be/icZj67PTFhc).
 
-#### Construct or modify a path:
+## Usage
+This program is intended to be run by [Processing.py](https://py.processing.org/).
+
+To construct or modify a path:
 - **Mouse LMB** — Place an obstacle
 - **Mouse RMB** — Remove an obstacle
 - **Mouse LMB + ⌘** — Nominate a destination node
